@@ -1,2 +1,4 @@
-# Sales-Star-Schema-PowerBI-Dashboard
-Power BI sales dashboard built on a star schema data model with one-to-many relationships, DAX measures, Waterfall analysis, and Decomposition Tree for root-cause sales insights.
+This project demonstrates how a flat sales dataset was transformed into a scalable analytical model using proper data modeling techniques in Power BI.The objective of this dashboard is to enable interactive sales performance analysis by product, customer segment, category, state, and year through a structured star schema model and advanced analytical visuals. 
+The original dataset contained customer, product and order information in a single flat table. This was restructured into a star schema .One-to-many relationships were created between each dimension table and the fact table to ensure accurate filtering, scalability and reliable reporting.
+Total Sales, Total Profit DAX measures were created.
+Skills Demonstrated (Data cleaning and transformation using Power Query, Star schema data modeling, Creating and managing one-to-many relationships ,Writing DAX measures for business analysis, Designing analytical and interactive dashboards, Using Decomposition Tree for root cause analysis ) 
